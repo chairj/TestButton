@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Button</string>
+    <string name="type_something">Type something</string>
+    <string name="show_output">Show Output</string>
+</resources>
